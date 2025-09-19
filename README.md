@@ -25,5 +25,3 @@ The tool encodes each character of the message into the **least significant bits
 
 
 
-## 📦 Project Structure
-
